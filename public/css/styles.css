@@ -1,0 +1,85 @@
+.btn-h1-spacing{
+  margin-top:23px;
+}
+.form-spacing-top{
+	margin-top: 20px;
+}
+.form-spacing-top-title{
+	margin-top: 10px;
+}
+.sidebar-spacing-top{
+	margin-top: 68px;
+}
+.button-spacing-tb{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.font-styling{
+	font-family:Times New Roman;
+
+}
+.category-spacing-tb{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.comment{
+  
+  margin-top:20px;
+}
+
+.author-image{
+	width:50px;
+	height:50px;
+	border-radius:50%;
+	float:left;
+}
+
+.author-name{
+	float:left;
+	margin-left:15px;
+
+}
+.author-name>h4{
+	margin:5px 0px;
+	
+}
+
+.comment-content{
+	clear:both;
+	margin-left:64px;
+	font-size:16px;
+	line-height:1.3am;
+}
+.author-time{
+	font-size:12px;
+	font-style:italic;
+	color:#aaa;
+}
+
+.card-adjusting{
+	width:450px;
+	margin-left:750px ;
+	margin-top:20px ;
+}
+.blog-adjusting{
+   margin-left:-90px;
+   margin-top: -440px;
+   margin-bottom:40px;
+}
+.comment-adjusting{
+	margin-left:30px;
+}
+
+.container-styling{
+   position: absolute;
+   top:65px;
+   right: 0;
+   bottom:0;
+   left: 0;
+}
+.about-styling{
+	margin-left: 100px;
+	margin-right: 100px;
+	color:darkgrey;
+}
